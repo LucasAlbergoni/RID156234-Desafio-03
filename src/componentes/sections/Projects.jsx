@@ -16,7 +16,7 @@ function Projects() {
             img={dncWeather}
             title="DNC Weather"
             description="Aplicação que consome a API Busca CEP e a API de previsão do tempo"
-            repo="https://github.com/LucasAlbergoni/previsao-tempo-dncr"
+            repo="https://github.com/LucasAlbergoni/previsao-tempo-dnc"
             site="https://previsaotempo-dnc.netlify.app/"
           />
           <Card
